@@ -3,15 +3,16 @@
 [Page d'accueil](https://audreyburki.github.io/Maison/)
 
 
-## Histoire
+# Histoire
 Il s’agit d’une maison datant de la fin du 19ème siècle avec cachet (carreaux ciments d’origine, moulures) en cours de rénovation (mais tout à fait fonctionnelle). La maison n’était à l’origine pas destinée à la location mais ayant déménagé dans le nord de l’Allemagne nous avons décidé d’en faire profiter à d’autres. L’argent de la location est réinvesti dans la maison.
 
 
-## La maison
+# La maison
 
-### Au Rez-de- Chaussée : 
+## Au Rez-de- Chaussée : 
 
--	Petite cuisine (cuisinière à gaz, frigo et congélateur) donnant sur jardin 
+### Petite cuisine (cuisinière à gaz, frigo et congélateur) donnant sur jardin 
+
 ![20210408_142632](https://user-images.githubusercontent.com/28299451/129482764-c813a74c-b738-4cf0-b46c-c5a43b648e03.jpg)
 
 
@@ -29,18 +30,20 @@ Il s’agit d’une maison datant de la fin du 19ème siècle avec cachet (carre
 ![20210408_105821](https://user-images.githubusercontent.com/28299451/129482907-cef3e02f-b4b4-4a1c-9c39-ea949ad11a8a.jpg)
 
 
-### A l'Etage : 
+## A l'Etage : 
 ![20210408_131222](https://user-images.githubusercontent.com/28299451/129482742-8db8150c-e006-4e7e-8f1d-13607d81cfeb.jpg)
 
--	Salle de bain
+### 	Salle de bain
 ![20200727_104726](https://user-images.githubusercontent.com/28299451/129482868-e08b2b0c-b7c9-42e6-b087-28de3f8a1493.jpg)
 ![20200727_104601](https://user-images.githubusercontent.com/28299451/129482845-d1e1b2c4-eb90-4cd9-a973-ed34fe437be1.jpg)
 ![20200727_104613](https://user-images.githubusercontent.com/28299451/129482852-acc69cf5-e363-4e5e-a705-a215de0bc440.jpg)
 ![20200727_104633](https://user-images.githubusercontent.com/28299451/129482855-c393fc6d-cf60-4d0a-81af-34fc6bf553c8.jpg)
 ![20200727_104718](https://user-images.githubusercontent.com/28299451/129482861-13e67be7-5a53-4475-9aa2-bb05689918f8.jpg)
--	Chambre à coucher 1, deux couchages
 
--	Chambre couchages 2, deux couchages  donnant sur terrasse abritée avec jolie vue
+### Chambre à coucher 1, deux couchages
+
+###	Chambre couchages 2, deux couchages  donnant sur terrasse abritée avec jolie vue
+
 ![20200717_181300](https://user-images.githubusercontent.com/28299451/129482780-a2f6ab48-cc02-4cd1-83f0-9c8c010ed30d.jpg)
 
 ![20210408_104343](https://user-images.githubusercontent.com/28299451/129482875-5dac106a-c53f-4714-8e06-426981c937a9.jpg)
@@ -50,9 +53,4 @@ Il s’agit d’une maison datant de la fin du 19ème siècle avec cachet (carre
 Jardin de 400 m2
 
 Deux places de parc
-
-
-
-
-## Photos extérieur
 
