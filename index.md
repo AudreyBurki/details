@@ -8,6 +8,58 @@ Il s’agit d’une maison datant de la fin du 19ème siècle avec cachet (carre
 
 ## Visite visuelle
 
+<!DOCTYPE html>
+<head>
+    <meta name="found-at" content="http://www.computedstyle.com/2010/12/hiring-front-end-engineers.html">
+    <meta name="description" content="A div with an id of 'slideshow' contains
+five images, the first of which is shown and the others are hidden using a
+display style of none. Using Javascript, create a simple slideshow that cycles
+through the images, displaying each image for three seconds at a time, looping
+back to the first image when the end is reached. You cannot use jQuery or any
+other library.">
+
+<script type="text/javascript" charset="utf-8">
+
+    function nextSlide(slideNo, dir) {
+        if (!dir) { dir = "up"; }
+        
+        console.log("Current slide: " + slideNo)
+        
+        currentSlide = document.getElementById("slide-" + slideNo);
+        currentSlide.style.display = "inline";
+        
+        function next() { 
+            currentSlide.style.display = "none";
+            if (slideNo == 4) { direction = "down"}
+            if (slideNo == 0) { direction = "up"}
+            dir == "up" ? nextSlide(slideNo + 1, "up") : nextSlide(slideNo - 1, "down");
+        }
+        setTimeout(next, 2000); 
+    }
+
+    function slideShow(id) {
+        var container = document.getElementById(id);
+        var imageCount = container.childElementCount;
+        for (i = 0; i < imageCount; i++) {
+            container.children[i].id = "slide-" + i;
+        }
+        container.children[imageCount - 1].setAttribute("class", "last-slide");
+        nextSlide(0);
+    }
+</script>
+
+</head>
+<body onload='slideShow("slideshow");'>
+    <div id="slideshow">
+        <img src="1.jpg" alt="" />
+        <img src="2.jpg" style="display:none" alt="" />
+        <img src="3.jpg" style="display:none" alt="" />
+        <img src="4.jpg" style="display:none" alt="" />
+        <img src="5.jpg" style="display:none" alt="" />
+    </div>
+</body>
+</html>
+
 ![20210408_105849](https://user-images.githubusercontent.com/28299451/129482730-d3f1b1a6-3c77-4b31-9887-6d404312738f.jpg)
 ![20210408_131222](https://user-images.githubusercontent.com/28299451/129482742-8db8150c-e006-4e7e-8f1d-13607d81cfeb.jpg)
 ![20210408_142632](https://user-images.githubusercontent.com/28299451/129482764-c813a74c-b738-4cf0-b46c-c5a43b648e03.jpg)
