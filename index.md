@@ -19,7 +19,8 @@ Il s’agit d’une maison datant de la fin du 19ème siècle avec cachet (carre
 
 ![20200726_193220](https://user-images.githubusercontent.com/28299451/129482800-6f08e7cf-ecf9-493b-afed-2b3f30b0e4ec.jpg)
 ![20200726_193619](https://user-images.githubusercontent.com/28299451/129482816-2e408e37-6108-4d8a-904d-c6d8098fcd7f.jpg)
--	Salon (table pour 8-10 personnes, 2 lits pliables (rudimentaires) au besoin)
+
+### Salon (table pour 8-10 personnes, 2 lits pliables (rudimentaires) au besoin)
 ![20210408_105849](https://user-images.githubusercontent.com/28299451/129482730-d3f1b1a6-3c77-4b31-9887-6d404312738f.jpg)
 
 ![20200727_100534](https://user-images.githubusercontent.com/28299451/129482821-a8f0b4d4-654a-4047-a9ed-d54c3bad513a.jpg)
