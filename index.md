@@ -34,6 +34,7 @@ Il s’agit d’une maison datant de la fin du 19ème siècle avec cachet (carre
 ![20210408_131222](https://user-images.githubusercontent.com/28299451/129482742-8db8150c-e006-4e7e-8f1d-13607d81cfeb.jpg)
 
 ### 	Salle de bain
+
 ![20200727_104726](https://user-images.githubusercontent.com/28299451/129482868-e08b2b0c-b7c9-42e6-b087-28de3f8a1493.jpg)
 ![20200727_104601](https://user-images.githubusercontent.com/28299451/129482845-d1e1b2c4-eb90-4cd9-a973-ed34fe437be1.jpg)
 ![20200727_104613](https://user-images.githubusercontent.com/28299451/129482852-acc69cf5-e363-4e5e-a705-a215de0bc440.jpg)
@@ -42,7 +43,7 @@ Il s’agit d’une maison datant de la fin du 19ème siècle avec cachet (carre
 
 ### Chambre à coucher 1, deux couchages
 
-###	Chambre couchages 2, deux couchages  donnant sur terrasse abritée avec jolie vue
+### Chambre couchages 2, deux couchages  donnant sur terrasse abritée avec jolie vue
 
 ![20200717_181300](https://user-images.githubusercontent.com/28299451/129482780-a2f6ab48-cc02-4cd1-83f0-9c8c010ed30d.jpg)
 
