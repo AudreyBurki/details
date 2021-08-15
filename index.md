@@ -7,7 +7,29 @@
 Il s’agit d’une maison datant de la fin du 19ème siècle avec cachet (carreaux ciments d’origine, moulures) en cours de rénovation (mais tout à fait fonctionnelle). La maison n’était à l’origine pas destinée à la location mais ayant déménagé dans le nord de l’Allemagne nous avons décidé d’en faire profiter à d’autres. L’argent de la location est réinvesti dans la maison.
 
 
-## Photos
+## La maison
+
+### Au Rez-de- Chaussée : 
+
+-	Petite cuisine (cuisinière à gaz, frigo et congélateur) donnant sur jardin 
+
+-	Salon (table pour 8-10 personnes, 2 lits pliables (rudimentaires) au besoin)
+
+### A l'Etage : 
+
+-	Salle de bain
+
+-	Chambre à coucher 1, deux couchages
+
+-	Chambre couchages 2, deux couchages  donnant sur terrasse abritée avec jolie vue
+
+### Extérieur
+
+Jardin de 400 m2
+
+Deux places de parc
+
+## Photos intérieur
 
 ![20210408_105849](https://user-images.githubusercontent.com/28299451/129482730-d3f1b1a6-3c77-4b31-9887-6d404312738f.jpg)
 ![20210408_131222](https://user-images.githubusercontent.com/28299451/129482742-8db8150c-e006-4e7e-8f1d-13607d81cfeb.jpg)
@@ -28,23 +50,5 @@ Il s’agit d’une maison datant de la fin du 19ème siècle avec cachet (carre
 ![20210408_105821](https://user-images.githubusercontent.com/28299451/129482907-cef3e02f-b4b4-4a1c-9c39-ea949ad11a8a.jpg)
 
 
-## La maison
-
-Au Rez-de- Chaussée : 
-
--	Petite cuisine (cuisinière à gaz, frigo et congélateur) donnant sur jardin 
-
--	Salon (table pour 8-10 personnes, 2 lits pliables (rudimentaires) au besoin)
-
-A l'Etage : 
-
--	Salle de bain
-
--	Chambre à coucher 1, deux couchages
--
--	Chambre couchages 2, deux couchages  donnant sur terrasse abritée avec jolie vue
-
-Deux places de parc
-
-Jardin de 400 m2
+## Photos extérieur
 
