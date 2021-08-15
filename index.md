@@ -15,7 +15,6 @@ Il s’agit d’une maison datant de la fin du 19ème siècle avec cachet (carre
 
 ![20210408_142632](https://user-images.githubusercontent.com/28299451/129482764-c813a74c-b738-4cf0-b46c-c5a43b648e03.jpg)
 
-
 ![20200726_193237](https://user-images.githubusercontent.com/28299451/129482804-86602e3a-ce44-49d5-af20-b0efc02515cc.jpg)
 
 ![20200726_193220](https://user-images.githubusercontent.com/28299451/129482800-6f08e7cf-ecf9-493b-afed-2b3f30b0e4ec.jpg)
